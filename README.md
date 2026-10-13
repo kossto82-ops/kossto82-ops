@@ -1,187 +1,62 @@
-# Raúl — Process Automation · Applied AI · Enterprise Systems
+# Raúl Rodríguez Cruz — Process Automation · Applied AI · Operations
 
 **Operations professional who builds the automation.**
 
-I direct AI-assisted development to build systems that solve real business problems — from enterprise knowledge management and competitive intelligence to customer-service AI and operational automation.
+20+ years in customer service and operations in Spain and Thailand, including 7 years managing a high-volume site and an 8-person team. Today I manage a ~300-account customer service book and build the tools that remove manual work from it.
 
-My background is in **Customer Experience and Operations**: 20+ years working with real processes, constraints, inefficiencies, and the people who deal with them every day. I use that operational experience to identify the problems worth solving, then direct AI coding tools (mainly Claude Code) to build the solutions.
+I use my operational experience to decide which problems are worth solving, design the workflow and the business rules, and build the solution with AI-assisted development (mainly Claude Code). I test what I build and document what does not work yet.
 
-> **I don't build portfolio pieces for the sake of building software. I build tools around problems that businesses actually have.**
->
-> ---
->
-> ## 🚀 Featured Projects
->
-> ### EKOS — Enterprise Knowledge Platform
->
-> An enterprise knowledge platform that turns fragmented company documentation into searchable, contextual, evidence-backed answers.
->
-> **What it demonstrates:** Hybrid lexical + vector retrieval with Reciprocal Rank Fusion · Measured retrieval (hit@1 73%, hit@5 89%) · Multi-provider AI (OpenAI, Anthropic, Gemini, Groq) · Role-based access control · Governance console · Answer-provenance tracking · Reviewed by the company's VP of Technology
->
-> **Tech:** React 19 · TypeScript · Node.js · Express · SQLite · RAG · Embeddings
->
-> → [Repository](https://github.com/kossto82-ops/EKOS-public)
->
-> ### Competitor Monitor AI — Competitive Intelligence Platform
->
-> Continuously monitors competitor pages, extracts structured data (price, product, availability), and detects meaningful changes deterministically — with AI interpretation layered on top of evidence, never replacing it. 10 delivery phases with documented design decisions.
->
-> **Tech:** TypeScript · PostgreSQL · Redis · BullMQ · Playwright · Provider-neutral AI
->
-> → [Repository](https://github.com/kossto82-ops/Competitor-Monitor-AI)
->
-> ### AI Back Office CS — Customer Service AI Assistant
->
-> B2B SaaS for small customer-service teams. AI analyzes cases, classifies them, retrieves relevant knowledge, and drafts responses — with a human reviewing every step. Tenant-scoped dashboard with role-based access and billing.
->
-> **Tech:** TypeScript · React · Node.js · Express · SQLite
->
-> → [Repository](https://github.com/kossto82-ops/AI-Back-Office-CS)
->
-> ### AI-CONTENT-FACTORY — Multi-Agent Video Pipeline
->
-> Solo, AI-directed multi-agent pipeline for short-form video production (Research → Script → Director → Visual → Voice → Assembly → QA) with human-approval gates and model-gateway abstraction.
->
-> **Tech:** TypeScript · Node.js · Multi-agent orchestration
->
-> → [Repository](https://github.com/kossto82-ops/AI-CONTENT-FACTORY)
->
-> ### Business Automation Tools Portfolio
->
-> 7 practical tools built from real operational workflows: BI dashboard, multilingual invoicing, employee directory automation, PDF analyzer, workforce scheduler (ShiftFlow), hotel entity-resolution tool, and on-call roster generator.
->
-> **Tech:** JavaScript · TypeScript · React · Python · Pandas · Plotly
->
-> → [Repository](https://github.com/kossto82-ops/tools-portfolio)
->
-> ---
->
-> ## 🛠️ Tech Stack
->
-> **Languages & Frameworks:** TypeScript · JavaScript · Python · React · Node.js · Express
->
-> **AI & Data:** RAG · Embeddings · LLMs · AI Agents · Vector Search · Hybrid Retrieval · Prompt Engineering · Claude Code
->
-> **Backend & Infrastructure:** PostgreSQL · SQLite · Redis · REST APIs · BullMQ · Playwright · Docker · CI/CD
->
-> **Engineering:** Testing · Accessibility · Security · RBAC · Architecture · API Design
->
-> ---
->
-> ## 🎯 What I'm Building Toward
->
-> I'm focused on the intersection of **Business Operations × Automation × AI × Software**.
->
-> I'm open to roles at that intersection: process automation, business/operations analysis, AI operations, or CX operations with a technology mandate — remote or Chiang Mai-based. Bilingual ES/EN.
->
-> ---
->
-> ## 📫 Let's Connect
->
-> [LinkedIn](https://linkedin.com/in/raulrodriguezcruz) · rodriguezraul_1@hotmail.com
->
-> > Build around the problem. Use technology where it creates leverage.# Raúl — Process Automation · Applied AI · Enterprise Systems
+📍 Chiang Mai, Thailand · Spanish citizen (EU work authorization) · Open to remote work or relocation to Spain/EU · Bilingual ES/EN
 
-**Operations professional who builds the automation.**
+---
 
-I direct AI-assisted development to build systems that solve real business problems — from enterprise knowledge management and competitive intelligence to customer-service AI and operational automation.
+## Featured projects
 
-My background is in **Customer Experience and Operations**: 20+ years working with real processes, constraints, inefficiencies, and the people who deal with them every day. I use that operational experience to identify the problems worth solving, then direct AI coding tools (mainly Claude Code) to build the solutions.
+### [EKOS — Enterprise Knowledge Platform](https://github.com/kossto82-ops/EKOS-public)
+Turns scattered company documentation into searchable, evidence-backed answers, with role-based access and a governance console.
 
-> **I don't build portfolio pieces for the sake of building software. I build tools around problems that businesses actually have.**
->
-> ---
->
-> ## 🚀 Featured Projects
->
-> ### EKOS — Enterprise Knowledge Platform
->
-> An enterprise knowledge platform that turns fragmented company documentation into searchable, contextual, evidence-backed answers.
->
-> - Hybrid lexical + vector retrieval with Reciprocal Rank Fusion
-> - - Measured retrieval: hit@1 73%, hit@5 89% against a labelled query set
->   - - Multi-provider AI abstraction (OpenAI, Anthropic, Gemini, Groq)
->     - - Role-based access control, governance console, answer-provenance tracking
->       - - Reviewed by the company's VP of Technology
->        
->         - **Tech:** React 19 · TypeScript · Node.js · Express · SQLite · RAG · Embeddings
->        
->         - → [Repository](https://github.com/kossto82-ops/EKOS-public)
->        
->         - ### Competitor Monitor AI — Competitive Intelligence Platform
->
-> Continuously monitors competitor pages, extracts structured data (price, product, availability), and detects meaningful changes deterministically — with AI interpretation layered on top of evidence, never replacing it.
->
-> - Deterministic change detection + historical pattern analysis + AI interpretation
-> - - 10 delivery phases with documented design decisions
->  
->   - **Tech:** TypeScript · PostgreSQL · Redis · BullMQ · Playwright · Provider-neutral AI
->  
->   - → [Repository](https://github.com/kossto82-ops/Competitor-Monitor-AI)
->  
->   - ### AI Back Office CS — Customer Service AI Assistant
->
->   - B2B SaaS for small customer-service teams. AI analyzes cases, classifies them, retrieves relevant knowledge, and drafts responses — with a human reviewing every step.
->
->   - - Case analysis, classification, knowledge retrieval, draft responses
->     - - Tenant-scoped dashboard with role-based access and billing
->       - - The AI assists the agent, it never acts on its own
->        
->         - **Tech:** TypeScript · React · Node.js · Express · SQLite
->        
->         - → [Repository](https://github.com/kossto82-ops/AI-Back-Office-CS)
->        
->         - ### AI-CONTENT-FACTORY — Multi-Agent Video Pipeline
->
-> Solo, AI-directed multi-agent pipeline for short-form video production (Research → Script → Director → Visual → Voice → Assembly → QA) with human-approval gates and model-gateway abstraction.
->
-> **Tech:** TypeScript · Node.js · Multi-agent orchestration
->
-> → [Repository](https://github.com/kossto82-ops/AI-CONTENT-FACTORY)
->
-> ### Business Automation Tools Portfolio
->
-> 7 practical tools built from real operational workflows: BI dashboard, multilingual invoicing, employee directory automation, PDF analyzer, workforce scheduler (ShiftFlow), hotel entity-resolution tool, and on-call roster generator.
->
-> **Tech:** JavaScript · TypeScript · React · Python · Pandas · Plotly
->
-> → [Repository](https://github.com/kossto82-ops/tools-portfolio)
->
-> ---
->
-> ## 🛠️ Tech Stack
->
-> **Languages & Frameworks**
->
-> TypeScript · JavaScript · Python · React · Node.js · Express
->
-> **AI & Data**
->
-> RAG · Embeddings · LLMs · AI Agents · Vector Search · Hybrid Retrieval · Prompt Engineering · Claude Code
->
-> **Backend & Infrastructure**
->
-> PostgreSQL · SQLite · Redis · REST APIs · BullMQ · Playwright · Docker · CI/CD
->
-> **Engineering**
->
-> Testing · Accessibility · Security · RBAC · Architecture · API Design
->
-> ---
->
-> ## 🎯 What I'm Building Toward
->
-> I'm focused on the intersection of:
->
-> **Business Operations × Automation × AI × Software**
->
-> I'm open to roles at that intersection: process automation, business/operations analysis, AI operations, or CX operations with a technology mandate — remote or Chiang Mai-based. Bilingual ES/EN.
->
-> ---
->
-> ## 📫 Let's Connect
->
-> - [LinkedIn](https://linkedin.com/in/raulrodriguezcruz)
-> - - rodriguezraul_1@hotmail.com
->  
->   - > Build around the problem. Use technology where it creates leverage.
+- Hybrid retrieval (lexical + vector, Reciprocal Rank Fusion), evaluated on 63 labelled queries: **hit@1 73%** vs 27% for lexical-only search, **hit@5 89%**, MRR 0.79
+- Answers show confidence and linked sources; multi-provider AI (OpenAI, Anthropic, Gemini, Groq)
+- Reviewed by my company's VP of Technology
+- **Tech:** React 19 · TypeScript · Node.js · Express · SQLite · RAG · Embeddings
+- 🌐 [Live demo](https://ekos-public.vercel.app)
+
+### [AI Back Office CS — AI assistant for customer service teams](https://github.com/kossto82-ops/AI-Back-Office-CS)
+Helps small support teams handle cases faster: AI classifies each case, retrieves the relevant procedures and drafts a reply that an agent approves, edits or copies. The AI never acts on its own.
+
+- Schema-validated LLM output with sources and confidence, plus deterministic checks that flag commitments the knowledge base does not support
+- Team-scoped data isolation and Playwright end-to-end tests
+- Built on top of Vercel's Next.js SaaS Starter (auth, billing); the customer-service layer is my work
+- **Tech:** Next.js · TypeScript · PostgreSQL · Drizzle · OpenAI API · Playwright
+
+### [Competitor Monitor AI — Competitive intelligence](https://github.com/kossto82-ops/Competitor-Monitor-AI)
+Monitors competitor pages on a schedule, extracts price, product and availability data, and detects changes deterministically. AI interpretation is optional and always sits on top of the evidence, never in place of it.
+
+- Delivered in documented phases (design decisions, tests and deferred work recorded for each)
+- **Tech:** TypeScript · Next.js · PostgreSQL · Prisma · Redis · BullMQ · Cheerio
+
+### [Business Automation Tools](https://github.com/kossto82-ops/tools-portfolio)
+Lightweight tools built from real operational workflows, several running entirely in the browser: ShiftFlow (workforce scheduling), Data Import & Cleanup Studio, Hotel Mapping Tool (record matching), Employee Directory Transformer, Invoicing Generator and two on-call roster tools.
+
+- **Tech:** JavaScript · TypeScript · React · Excel
+
+### [AI-CONTENT-FACTORY — Multi-agent video pipeline](https://github.com/kossto82-ops/AI-CONTENT-FACTORY)
+Multi-agent pipeline for short-form video (research → script → visuals → voice → assembly → QA) with human approval gates and per-model cost tracking. Planning and approval flows work; voice and video generation run on local stubs.
+
+- **Tech:** TypeScript · Node.js · SQLite · React
+
+---
+
+## Skills
+
+**Automation & data:** process automation · workflow analysis · data cleaning and validation · BI reporting · Excel · SQL
+
+**AI:** RAG · hybrid retrieval · embeddings · structured LLM output · multi-agent workflows · prompt engineering · Claude Code
+
+**Software:** TypeScript · JavaScript · Python · React · Next.js · Node.js · PostgreSQL · SQLite · testing (Vitest, Playwright) · Git
+
+---
+
+## Contact
+
+[LinkedIn](https://linkedin.com/in/raulrodriguezcruz) · rodriguezraul_1@hotmail.com
